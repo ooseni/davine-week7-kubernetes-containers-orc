@@ -1,0 +1,25 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# Kubernetes / Helm
+.kube/
+*.tgz
+
+# IDEs
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

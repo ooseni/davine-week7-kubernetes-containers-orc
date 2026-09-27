@@ -66,3 +66,7 @@ Kubernetes seamlessly manages replicas and rollouts, allowing us to dynamically 
 ---
 **Author:** Oseni Sakariyau Oluwadamilare (Dami)  
 **Role:** DevOps Engineering Intern @ Davine Technology
+
+## License
+
+Released under the [MIT License](LICENSE).
